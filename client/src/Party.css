@@ -1,0 +1,13 @@
+.party{
+    display: inline-flex;
+    width: 80vw;
+    border:1px solid black;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bannerImage{
+    width: 10%;
+    height: 10%;
+}
